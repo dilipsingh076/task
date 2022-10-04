@@ -1,0 +1,27 @@
+.navbar{
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: gainsboro;
+}
+img{
+    /* border:2px solid blue; */
+    width: 18%;
+    
+}
+.imgdiv{
+    width: 45%;
+    cursor: pointer;
+}
+.itemdiv{
+    width: 45%;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20px;
+
+}
